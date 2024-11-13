@@ -108,10 +108,10 @@ You can customize the design system in the `tailwind.config.js` file to adjust t
 ## Examples
 
 ### Interactive 3D Models
-![3D Model Example](https://miro.medium.com/v2/resize:fit:1400/1*YLVRg-Y5aOwMeDpgHXHApw.gif)
+![3D Model Example](https://dimensiva.com/wp-content/uploads/edd/2023/10/iphone-15-pro-max-2023-by-apple.jpg)
 
 ### GSAP Animations
-![Smooth Animations](https://camo.githubusercontent.com/5a9a6b2134e7c8a52c1924e22928517270340a1c6011b7267d766ebc2d5f2b31/68747470733a2f2f63646e2e64726962626c652e636f6d2f7370616365732f66696c6c2f6753617050726f6a6563742e676966)
+![Smooth Animations](https://semaphoreci.com/wp-content/uploads/2023/10/output-1.gif)
 
 ---
 
